@@ -1,9 +1,0 @@
-# Build outputs
-build/
-build-*/
-*.user
-.vs/
-
-# Generated docs
-src/docs/html/
-src/docs/latex/
