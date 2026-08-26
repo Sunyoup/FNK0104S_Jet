@@ -1,5 +1,6 @@
 build/
 sdkconfig.old
+components/Jet
 managed_components
 *.bin
 *.elf
